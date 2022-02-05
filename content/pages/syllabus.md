@@ -22,35 +22,312 @@ _9.40 Introduction to Neural Computation_ and the ability to program in MATLAB®
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part 1: Probability Theory**{{< /td-colspan >}} |||
-| 1 |  {{< br >}}{{< br >}} Axioms of Probability Theory, Counting Rules {{< br >}}{{< br >}} Conditional Probability, Bayes' Rule and Independence {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Discrete Probability Models | Homework 1 due |
-| 3 | Continuous Probability Models I & II | Homework 2 due |
-| 4 |  {{< br >}}{{< br >}} Transformations of Random Variables {{< br >}}{{< br >}} Joint Distributions and Independent Random Variables {{< br >}}{{< br >}}  | Homework 3 due |
-| 5 | Conditional Distributions and Functions of Jointly Distributed Random Variables I & II | &nbsp; |
-| &nbsp; | In Class Examination 1 | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Expectations, Variances, Covariances and Correlation {{< br >}}{{< br >}} Moment Generating Functions I & II {{< br >}}{{< br >}}  | Homework 4 due |
-| 7 | The Law of Large Numbers and the Central Limit Theorem | &nbsp; |
-| {{< td-colspan 2 >}}**Part 2: Statistical Theory**{{< /td-colspan >}} |||
-| 8 |  {{< br >}}{{< br >}} Method-of-Moments Estimation {{< br >}}{{< br >}} Likelihood Theory I {{< br >}}{{< br >}}  | &nbsp; |
-| 9 | Likelihood Theory II | Homework 5 due |
-| 10 |  {{< br >}}{{< br >}} Propagation of Error {{< br >}}{{< br >}} Bootstrap and Monte Carlo Methods {{< br >}}{{< br >}}  | Homework 6 due |
-| &nbsp; | In Class Examination 2 | &nbsp; |
-| 11 | Hypothesis Testing I & II | Homework 7 due |
-| {{< td-colspan 3 >}}**Part 3: The Linear Model**{{< /td-colspan >}} |||
-| 12 | Simple Regression Model I, II & III | &nbsp; |
-| 13 | Analysis of Variance | Homework 8 due |
-| &nbsp; | Final Examination |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 1: Probability Theory**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Axioms of Probability Theory, Counting Rules
+
+Conditional Probability, Bayes' Rule and Independence
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Discrete Probability Models
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous Probability Models I & II
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Transformations of Random Variables
+
+Joint Distributions and Independent Random Variables
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Conditional Distributions and Functions of Jointly Distributed Random Variables I & II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+In Class Examination 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Expectations, Variances, Covariances and Correlation
+
+Moment Generating Functions I & II
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The Law of Large Numbers and the Central Limit Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part 2: Statistical Theory**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Method-of-Moments Estimation
+
+Likelihood Theory I
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Likelihood Theory II
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Propagation of Error
+
+Bootstrap and Monte Carlo Methods
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+In Class Examination 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Hypothesis Testing I & II
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 3: The Linear Model**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Simple Regression Model I, II & III
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Analysis of Variance
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final Examination
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading
 -------
 
 Grading will be based on problem sets, two in-class examinations and the final examination. The final grade will weight as:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets | 40% |
-| Two in-class examinations | 30% |
-| Final examination | 30%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two in-class examinations
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final examination
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
