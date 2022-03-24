@@ -27,7 +27,7 @@ SUPPLEMENTAL MATERIALS
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Conditional Probability, Bayes' Rule and Independence (PDF)]({{< baseurl >}}/resources/mit9_07f16_lec1)
+[Conditional Probability, Bayes' Rule and Independence (PDF)]({{< baseurl >}}/resources/mit9_07f16_lec1)
 
 
 {{< tdclose >}}
