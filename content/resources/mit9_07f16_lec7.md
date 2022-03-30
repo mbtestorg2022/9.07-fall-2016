@@ -4,6 +4,7 @@ description: This file contains information regarding the law of large numbers a
   the central limit theorem.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/42505b2c837e6182a408650e242d9830_MIT9_07F16_lec7.pdf
 file_type: application/pdf
+parent_uid: 39499fd5-0d44-603b-9e08-427e10a178e6
 resourcetype: Document
 title: The Law of Large Numbers and the Central Limit Theorem
 uid: 42505b2c-837e-6182-a408-650e242d9830
